@@ -1,4 +1,4 @@
-Cabot Email alert Plugin
+Cabot Email alert Plugin and add more infomation about error
 =====
 
 This is an alert plugin for the cabot service monitoring tool. It allows you to alert users by email.
